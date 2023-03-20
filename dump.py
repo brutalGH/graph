@@ -1,7 +1,6 @@
 # -- Copyright 2023 by brutalID -- #
 # -- MODULE -- #
-import requests,bs4,json,os,sys,random,datetime,time,re
-from concurrent.futures import ThreadPoolExecutor as thred
+import requests,json,os,sys,time,re
 from rich.console import Console as sol
 from rich.markdown import Markdown as mark
 from bs4 import BeautifulSoup as soup
