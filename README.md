@@ -1,5 +1,5 @@
 <h3 align='center'>Au ah males</br>minimal kasih star lah</h3>
-<p align='center'># sebelum menjalankan tools, install terlebih dahulu module rich, bs4 #</p>
+<p align='center'># Module yang di pakai : requests,json,os,sys,time,re #</p>
 
 #
 ### Github Stats
